@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maighahwie.doug.is/sitemap.xml
